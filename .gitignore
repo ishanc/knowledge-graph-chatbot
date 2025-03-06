@@ -38,10 +38,8 @@ yarn-error.log*
 .env.local
 .env.*.local
 .env.development
-.env.template
 .env.test
 .env.production
-.env.template
 *.secret
 *.key
 *.pem
